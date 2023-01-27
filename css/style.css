@@ -23,3 +23,23 @@ body{
     padding:25px;
     color:white;
   }
+
+#welcome-section {
+width: 100%;
+height: max-content;
+background-color: rgb(58, 58, 58);
+align-items: center;
+justify-content: center;
+}
+
+#welcome h1{
+        font-size: 40px;
+}
+
+#welcome-section p{
+    font-size: 18px;
+    color: black;
+    margin: 0;
+}
+
+
