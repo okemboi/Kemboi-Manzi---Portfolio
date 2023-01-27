@@ -9,3 +9,17 @@ body{
     background:#c30336;
     font-weight: bolder;
   }
+  ul{
+    display: flex;
+    margin-left: auto;
+    margin-right: 25px;
+  }
+  li{
+    list-style: none;
+    padding: 20px;
+  }
+  li a{
+    text-decoration: none;
+    padding:25px;
+    color:white;
+  }
